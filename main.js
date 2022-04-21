@@ -1,5 +1,3 @@
-console.log("js code loaded");
-
 var body = document.querySelector("body");
 var pageTitle = document.querySelector("title");
 var flightModeLabel = document.getElementById("flightModeLabel");
